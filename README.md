@@ -19,6 +19,5 @@
 - Regional profitability varies, suggesting opportunities to replicate high-performing strategies in weaker regions and improve overall business performance.
 - Time-series analysis shows consistent sales patterns with fluctuations, indicating potential seasonality and the need for better demand forecasting and inventory planning.
 - A mismatch between sales and profit in certain areas suggests margin inefficiencies, highlighting the importance of pricing strategy and cost control.
-- The analysis highlights opportunities to improve profitability by focusing on high-margin products and optimizing low-performing segments.
-- 
-- <img width="1215" height="687" alt="Screenshot 2026-05-05 190401" src="https://github.com/user-attachments/assets/dfe226e9-b852-461d-93cc-dc92f01736fc" />
+- The analysis highlights opportunities to improve profitability by focusing on high-margin products and optimizing low-performing segments. 
+ <img width="1215" height="687" alt="Screenshot 2026-05-05 190401" src="https://github.com/user-attachments/assets/dfe226e9-b852-461d-93cc-dc92f01736fc" />
